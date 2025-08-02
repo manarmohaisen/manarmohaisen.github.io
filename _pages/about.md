@@ -25,7 +25,7 @@ Funded Gtants
     <li><strong>Summary:</strong> This NSF-funded project at Northeastern Illinois University supports 45 high-achieving, low-income transfer students in Computer Science through scholarships, mentoring, and an industry-aligned curriculum. Aiming to increase retention and student performance in introductory courses, the project evaluates how curricular enhancements and mentoring improve retention, graduation, and career outcomes, with findings shared across academic and professional platforms to inform broader STEM education efforts.
       </li>
   </ul>
-
+ </section>section>
   
 
 Getting started
