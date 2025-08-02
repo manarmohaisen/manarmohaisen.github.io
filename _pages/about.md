@@ -14,11 +14,47 @@ I obtained my Ph.D. from [Inha University](inha.ac.kr), South Korea, in 2010, an
 
 Funded Gtants
 -------
- - National Science Foundation (NSF), Grant #2130406, "Advancing Computer Science Transfers for Success" Co-PI, $1,500,000, 2023–2026.
-This NSF-funded project at Northeastern Illinois University (NEIU), a Hispanic Serving Institution, supports 45 high-achieving, low-income transfer students pursuing Computer Science degrees. Over six years, students from partner community colleges will receive scholarships, mentorship from faculty and industry, and an enhanced curriculum with industry-standard tools to boost retention, graduation, and career readiness.
+ <section>
+  <h2>Advancing Computer Science Transfers for Success</h2>
+  <ul>
+    <li><strong>Funding Agency:</strong> National Science Foundation (NSF)</li>
+    <li><strong>Grant Number:</strong> #2130406</li>
+    <li><strong>Role:</strong> Co-Principal Investigator (Co-PI)</li>
+    <li><strong>Award Amount:</strong> $1,500,000</li>
+    <li><strong>Duration:</strong> 2023–2026</li>
+  </ul>
 
-The project addresses high attrition in introductory CS courses by studying the impact of curricular improvements and mentoring. It aims to increase student success and STEM degree completion, with outcomes evaluated through surveys, interviews, and academic data. Findings will be shared through conferences, journals, and professional networks to inform broader STEM education efforts.
- - 
+  <h3>Project Summary</h3>
+  <p>
+    This NSF-funded project at <strong>Northeastern Illinois University (NEIU)</strong>, a Hispanic Serving Institution, supports
+    <strong>45 high-achieving, low-income transfer students</strong> pursuing Computer Science degrees. Over six years,
+    students from partner community colleges will receive:
+  </p>
+  <ul>
+    <li>Two-year scholarships</li>
+    <li>Mentorship from faculty, alumni, and industry professionals</li>
+    <li>An enhanced curriculum featuring industry-standard tools and methodologies</li>
+  </ul>
+
+  <h3>Goals and Impact</h3>
+  <p>
+    The project targets high attrition in introductory CS courses by evaluating the effectiveness of:
+  </p>
+  <ul>
+    <li>Curricular improvements</li>
+    <li>Active mentoring</li>
+    <li>Non-curricular student support activities</li>
+  </ul>
+  <p>
+    The ultimate goal is to increase STEM degree completion, retention, and career readiness. Evaluation methods include surveys, interviews, and academic performance data.
+    Findings will be disseminated through:
+  </p>
+  <ul>
+    <li>Conferences</li>
+    <li>Academic journals</li>
+    <li>Professional networks such as the Computing Alliance of Hispanic Serving Institutions (CAHSI)</li>
+  </ul>
+</section>
 
 Getting started
 ======
