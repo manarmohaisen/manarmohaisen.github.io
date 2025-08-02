@@ -22,7 +22,7 @@ Funded Gtants
     <li><strong>Role:</strong> Co-Principal Investigator (Co-PI)</li>
     <li><strong>Award Amount:</strong> $1,500,000</li>
     <li><strong>Duration:</strong> 2023–2026</li>
-    <li><strong>Summary:</strong> This NSF-funded project at Northeastern Illinois University supports 45 high-achieving, low-income transfer students in Computer Science through scholarships, mentoring, and an industry-aligned curriculum. Aiming to reduce attrition in introductory courses, the project evaluates how curricular enhancements and mentoring improve retention, graduation, and career outcomes, with findings shared across academic and professional platforms to inform broader STEM education efforts.
+    <li><strong>Summary:</strong> This NSF-funded project at Northeastern Illinois University supports 45 high-achieving, low-income transfer students in Computer Science through scholarships, mentoring, and an industry-aligned curriculum. Aiming to increase retention and student performance in introductory courses, the project evaluates how curricular enhancements and mentoring improve retention, graduation, and career outcomes, with findings shared across academic and professional platforms to inform broader STEM education efforts.
       </li>
   </ul>
 
