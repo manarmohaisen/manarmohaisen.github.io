@@ -15,46 +15,18 @@ I obtained my Ph.D. from [Inha University](inha.ac.kr), South Korea, in 2010, an
 Funded Gtants
 -------
  <section>
-  <h2>Advancing Computer Science Transfers for Success</h2>
+  <h3>Advancing Computer Science Transfers for Success</h3>
   <ul>
     <li><strong>Funding Agency:</strong> National Science Foundation (NSF)</li>
     <li><strong>Grant Number:</strong> #2130406</li>
     <li><strong>Role:</strong> Co-Principal Investigator (Co-PI)</li>
     <li><strong>Award Amount:</strong> $1,500,000</li>
     <li><strong>Duration:</strong> 2023–2026</li>
+    <li><strong>Summary:</strong> This NSF-funded project at Northeastern Illinois University supports 45 high-achieving, low-income transfer students in Computer Science through scholarships, mentoring, and an industry-aligned curriculum. Aiming to reduce attrition in introductory courses, the project evaluates how curricular enhancements and mentoring improve retention, graduation, and career outcomes, with findings shared across academic and professional platforms to inform broader STEM education efforts.
+      </li>
   </ul>
 
-  <h3>Project Summary</h3>
-  <p>
-    This NSF-funded project at <strong>Northeastern Illinois University (NEIU)</strong>, a Hispanic Serving Institution, supports
-    <strong>45 high-achieving, low-income transfer students</strong> pursuing Computer Science degrees. Over six years,
-    students from partner community colleges will receive:
-  </p>
-  <ul>
-    <li>Two-year scholarships</li>
-    <li>Mentorship from faculty, alumni, and industry professionals</li>
-    <li>An enhanced curriculum featuring industry-standard tools and methodologies</li>
-  </ul>
-
-  <h3>Goals and Impact</h3>
-  <p>
-    The project targets high attrition in introductory CS courses by evaluating the effectiveness of:
-  </p>
-  <ul>
-    <li>Curricular improvements</li>
-    <li>Active mentoring</li>
-    <li>Non-curricular student support activities</li>
-  </ul>
-  <p>
-    The ultimate goal is to increase STEM degree completion, retention, and career readiness. Evaluation methods include surveys, interviews, and academic performance data.
-    Findings will be disseminated through:
-  </p>
-  <ul>
-    <li>Conferences</li>
-    <li>Academic journals</li>
-    <li>Professional networks such as the Computing Alliance of Hispanic Serving Institutions (CAHSI)</li>
-  </ul>
-</section>
+  
 
 Getting started
 ======
