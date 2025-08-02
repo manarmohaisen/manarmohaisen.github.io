@@ -12,12 +12,13 @@ My name is Manar Mohaisen, and I am an Associate Professor of Computer Science a
 I obtained my Ph.D. from [Inha University](inha.ac.kr), South Korea, in 2010, and my M.Sc. from [Côte d'Azur University](https://univ-cotedazur.fr/) in 2005.
 
 
-Service
+Funded Gtants
 -------
- - Servcie 1
- - Servcie 2
- - Servcie 3
+ - National Science Foundation (NSF), Grant #2130406, "Advancing Computer Science Transfers for Success" Co-PI, $1,500,000, 2023–2026.
+This NSF-funded project at Northeastern Illinois University (NEIU), a Hispanic Serving Institution, supports 45 high-achieving, low-income transfer students pursuing Computer Science degrees. Over six years, students from partner community colleges will receive scholarships, mentorship from faculty and industry, and an enhanced curriculum with industry-standard tools to boost retention, graduation, and career readiness.
 
+The project addresses high attrition in introductory CS courses by studying the impact of curricular improvements and mentoring. It aims to increase student success and STEM degree completion, with outcomes evaluated through surveys, interviews, and academic data. Findings will be shared through conferences, journals, and professional networks to inform broader STEM education efforts.
+ - 
 
 Getting started
 ======
