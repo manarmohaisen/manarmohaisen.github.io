@@ -15,7 +15,7 @@ I obtained my Ph.D. from [Inha University](inha.ac.kr), South Korea, in 2010, an
 Funded Gtants
 -------
 - **Advancing Computer Science Transfers for Success**: Funding agency: National Science Foundation (NSF), award number: 2130406, role: Co-PI, award amount: $1,500,000, duration: 2023-2027.
-- **Mobility of higher education students and staff supported by external policy funds**: Funding agency: Eurasmus+, role: NEIU Co-Lead, duration: 2022–2025; 
+- **Mobility of higher education students and staff supported by external policy funds**: Funding agency: European Union Eurasmus+, role: NEIU Co-Lead, duration: 2022–2025.
 
 <!--
  <section>
