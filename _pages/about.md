@@ -14,6 +14,10 @@ I obtained my Ph.D. from [Inha University](inha.ac.kr), South Korea, in 2010, an
 
 Funded Gtants
 -------
+- **Advancing Computer Science Transfers for Success**: Funding agency: National Science Foundation (NSF), award number: 2130406, role: Co-PI, award amount: $1,500,000, duration: 2023-2027.
+- **Mobility of higher education students and staff supported by external policy funds**: Funding agency: Eurasmus+, role: NEIU Co-Lead, duration: 2022–2025; 
+
+<!--
  <section>
   <h3>Advancing Computer Science Transfers for Success</h3>
   <ul>
@@ -37,10 +41,5 @@ Funded Gtants
       </li>
   </ul>
  </section>
-  
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+-->
 
