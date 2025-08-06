@@ -25,9 +25,6 @@ author_profile: true
 - Information Security Officer Search Committee, Co-Chair, 2021
 - Google Computer Science Summer Institute (CSSI), Cohort Technical Advisor, 2021
 - Google Computer Science Summer Institute (CSSI), Cohort Technical Advisor, 2022
-
-
-
 - Faculty Senate, Spring 2022
  
 
