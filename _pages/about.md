@@ -39,7 +39,7 @@ Recent Publications
   </li>
 </ol>
 
-Recent Professional Development 
+Recent Professional Development
 ----
 1. Tryhackme SOC Level 2 Path, 2025
 2. Tryhackme SOC Level 1 Path, 2025
