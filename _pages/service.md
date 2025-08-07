@@ -9,6 +9,7 @@ author_profile: true
 ---
 - Undergraduate Cybersecurity Program Development, Chair: Led the development of a university undergraduate cybersecurity program aligned with the NIST NICE Framework and ACM/IEEE/AIS SIGSEC/IFIP Cybersecurity Curricular Guidelines, and prepared all the documentation for the program's approval by the Illinois Board of Higher Education (IBHE).
 - Undergraduate AI Program Development: Mentored faculty and led regular meetings to guide the development of the undergraduate AI program at NEIU.
+- NETT Day 2024, College of Business and Technology, Co-chair of Organizing Committee: NETTDay (Northeastern Illinois University Educational Technology Day) is an annual event at NEIU that brings together educators, students, and technology professionals to explore and share innovations in educational technology through workshops, presentations, and networking opportunities.
 - Faculty Council on Students Affairs: Serving as a liaison between faculty and students, addressing student-related academic and non-academic concerns, and advising on policies that impact the student experience
 - Faculty Council on Technology: Providing guidance on the integration and use of technology in teaching, research, and administration, and advising on policies related to digital infrastructure, academic technologies, and data security and privacy.
 - College of Graduate Studies and Research Dean Search Committee, 2025
