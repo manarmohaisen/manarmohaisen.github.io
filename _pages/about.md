@@ -38,3 +38,17 @@ Recent Publications
     <strong>ACM Distributed Ledger Technologies: Research and Practice</strong>, 2025, [<a href="https://dl.acm.org/doi/abs/10.1145/3716323" target="_blank">Link</a>]
   </li>
 </ol>
+
+Recent Professional Development 
+----
+1. Tryhackme SOC Level 2 Path, 2025
+2. Tryhackme SOC Level 1 Path, 2025
+3. Tryhackme Web Fundamentals Learning Path, 2025
+4. Tryhackme Jr Penetration Tester Learning Path, 2025
+5. Tryhackme Security Engineer Learning Path, 2025
+6. Tryhackme CompTIA Pentest+ Learning Path, 2025
+7. Deeplearning.ai Natural Language Processing Specialization, 2024
+8. IBM Data Warehouse Engineer Professional Certificate, 2024
+9. IBM Data Engineering Professional Certificate, 2024
+10. IBM AI Engineering Professional Certificate, 2023
+11. IBM Advanced Data Science Professional Certificate, 2023
