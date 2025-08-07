@@ -18,27 +18,9 @@ Funded Grants
 - **Mobility of higher education students and staff supported by external policy funds**: Funding agency: European Union Eurasmus+, role: NEIU Co-Lead, award amount: 58,280 Euros, duration: 2022–2025.
 
 
-Recent Publications
+Acandemic Advising 
 -------
-<ul>
-  <li>
-    <em>Industry-Specific Vulnerability Assessment</em><br>
-    M. Alkinoon, H. Althebeiti, A. Alkinoon, M. Mohaisen, S. Salem, D. Mohaisen<br>
-    <strong>Int. Conf. on Web Inf. Syst. Eng.</strong>, 2025, [<a href="https://link.springer.com/chapter/10.1007/978-981-96-0576-7_10" target="_blank">Link</a>]
-  </li>
-
-
-  <li>
-    <em>Knowledge Graph-Based Methods for Automated Driving</em><br>
-    Book co-editors: R. Dhanaraj, M. Nalini, M. Sathyamoorthy, M. Mohaisen<br>
-    <strong>Elsevier</strong>, 2025, [<a href="https://www.sciencedirect.com/book/9780443300400/knowledge-graph-based-methods-for-automated-driving#book-info" target="_blank">Link</a>]
-  </li>
-
-  
-  <li>
-    <em>Blockchain Security and Privacy: Threats, Challenges, Applications, and Tools</em><br>
-    A. Alghuried, M. Alkinoon, M. Mohaisen, A. Wang, C. C Zou, D. Mohaisen<br>
-    <strong>ACM Distributed Ledger Technologies: Research and Practice</strong>, 2025, [<a href="https://dl.acm.org/doi/abs/10.1145/3716323" target="_blank">Link</a>]
-  </li>
-
-</ul>
+1.	Hemanthsatya Arvapalli, *Image-based learning techniques for malware classification: A systematic review*, Master's Project, **2024**.
+2.	Melinda Vigh, *Web attacks’ detection using deep and machine learning techniques,* Master's Project, **2024**.
+3.	Riya Bhutada, *Leveraging large language models for cybersecurity multiple-choice questions,* Master's Project, **2024**.
+4.	Sadaf Naaz Farooqui, **Malware clustering using machine learning techniques,* Master's Project, **2024**.
