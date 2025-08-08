@@ -20,8 +20,8 @@ main:
   - title: "Advising"
     url: /advising/
 
-  - title: "Talks"
-    url: /talks/  
+  # - title: "Talks"
+  #   url: /talks/  
     
   # - title: "Blog Posts"
   #   url: /year-archive/
