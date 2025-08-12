@@ -168,7 +168,7 @@ Lectures
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
-      <td style="padding: 10px;">Introduction Transfer Learning</td>
+      <td style="padding: 10px;">Introduction to Transfer Learning</td>
       <td style="padding: 10px;">
 <ul>
   <li><strong>Overview of Transfer Learning</strong>: Leveraging pre-trained models to solve related tasks.</li>
