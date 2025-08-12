@@ -21,7 +21,7 @@ Lectures
   </thead>
   <tbody>
     <tr style="background-color: #f9f9f9;">
-      <td style="padding: 10px;">Machine Learning types and project lifecycle</td>
+      <td style="padding: 10px;">Machine Learning Types and Project Lifecycle</td>
       <td style="padding: 10px;">
         <ul>
   <li><strong>Introduction to Machine Learning</strong>: Definition, goals, and core concepts of ML.</li>
@@ -49,14 +49,20 @@ Lectures
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td style="padding: 10px;">Networking and Internet Protocols
+      <td style="padding: 10px;">Crash Course in Programming for Machine Learning (Python)
 </td>
       <td style="padding: 10px;">
-        <ul>
-  <li><strong>Network Types and Structures:</strong> Overview of LAN, MAN, and WAN; subnetting, CIDR, VLANs, and DMZ configurations.</li>
-  <li><strong>Port and Socket Management:</strong> Explanation of inbound and outbound ports, and socket communication concepts.</li>
-  <li><strong>Essential Network Protocols:</strong> ARP, NAT, ICMP, TCP, UDP, IP, and DHCP, with their roles in communication and addressing.</li>
-  <li><strong>Domain Name System (DNS):</strong> Structure and function of DNS.</li>
+<ul>
+  <li><strong>Getting Started with Python</strong> – Setting up Python, running scripts, and basic syntax.</li>
+  <li><strong>Supported Programming Paradigms</strong> – Procedural, object-oriented, and functional programming.</li>
+  <li><strong>Built-in Types</strong>: Integer (<code>int</code>), Boolean (<code>bool</code>), and Floating point (<code>float</code>).</li>
+  <li><strong>Looping and Branching</strong>: <code>for</code> loops, <code>while</code> loops, <code>if</code>/<code>elif</code>/<code>else</code> statements.</li>
+  <li><strong>Built-in Collections</strong>: <code>list</code>, <code>tuple</code>, <code>set</code>, <code>dict</code>, <code>bytes</code>, and <code>bytearray</code>.</li>
+  <li><strong>Functions</strong>: Defining, calling, arguments, return values, and scope.</li>
+  <li><strong>Concrete Classes</strong>: Class definitions, instantiation, attributes, and methods.</li>
+  <li><strong>File I/O</strong>:Reading from and writing to files.</li>
+  <li><strong>Necessary Packages</strong>: Overview of NumPy, Pandas, SciPy, and Matplotlib.</li>
+  <li><strong>Other Selected Topics</strong>: Additional Python features and concepts for advanced use.</li>
 </ul>
       </td>
     </tr>
