@@ -7,26 +7,30 @@ author_profile: true
 
 **Graduate Students** 
 -------
-1.	Hemanthsatya Arvapalli, *Image-based learning techniques for malware classification: A systematic review*, Master's Project, **2024**.
-2.	Melinda Vigh, *Web attacks’ detection using deep and machine learning techniques,* Master's Project, **2024**.
-3.	Riya Bhutada, *Leveraging large language models for cybersecurity multiple-choice questions,* Master's Project, **2024**.
-4.	Sadaf Naaz Farooqui, *Malware clustering using machine learning techniques,* Master's Project, **2024**.
-5.	Jemin Miyani, *Stock price prediction using machine and deep learning techniques,* Master's Project, **2024**.
-6.	Anne Ryan, *Digital image forensics using deep learning,* Master's Project, **2023**.
-7.	Dennis George, *Transport layer security: History, benefits, and adoption rate,* Master's Project, **2023**.
-8.	George Medairy, *Denial-of-service attack detection using machine learning techniques,* Master's Project, **2023**.
-9.	Maulik Patel, *SSL certificate security and HTT/3 adoption rate,* Master's Project, **2023**.
-10.	Samiya Abid, *Why is the world afraid of AI?* Master's Project, **2023**.
-11.	Ashle Samczynski, *Malware analysis and classification using machine learning,* Master's Project, **2022**.
-12.	Anjum Zarfishan, *Online procurement and bidding system,* Master's Project, **2022**.
-13.	Saif Alsukhni, *Automotive digital forensics: Methodology and analysis,* Master's Project, **2022**.
-14.	Shubha Manapati, *Fuzzy hashing and applications to cybersecurity and digital forensics,* Master's Project, **2022**.
-15.	Latha Saradha, *Housing price prediction in New York City using machine learning,* Master's Project, **2019**.
-16.	Tasnim Holoubi, *Constellation design and parallel implementation of the improved quadrature spatial modulation MIMO system,* Master's Thesis, Korea Tech, **2018-2020**.
-17.	Nishal Muchena, *Single-RF to two-RF chains MIMO spatial modulation: systems, analysis and performance evaluation,* Master's Thesis, Korea Tech, **2018-2020**.
-18.	Sherif Murtala, Co-advised with Dr. Kang-Sun Choi, Ph.D., Korea Tech, **2018-2021**.
-19.	Ismail Holoubi, *Social network analysis of refugees' displacement,* Master's Thesis, Korea Tech, **2017-2019**.
-20.	Saetbyeul Lee, *Improved spatial modulation techniques for MIMO systems,* Master's Thesis, Korea Tech, **2015-2017**.
+1.  Ahmet Alptekin, *Recent perspectives on artificial intelligence in education: Opportunities, ethical challenges and future directions,* Master's Project, **2025**.
+2.  Joseangel Ramos, *Security Information and Event Management (SIEM): Elastic Stack*, Master's Project, **2025**.
+3.  Hamdan Aynazarov, *Analysis of cultural bias in large language models,* Master's Project, **2025**.
+4.	Hemanthsatya Arvapalli, *Image-based learning techniques for malware classification: A systematic review*, Master's Project, **2024**.
+5.	Melinda Vigh, *Web attacks’ detection using deep and machine learning techniques,* Master's Project, **2024**.
+6.	Riya Bhutada, *Leveraging large language models for cybersecurity multiple-choice questions,* Master's Project, **2024**.
+7.	Sadaf Naaz Farooqui, *Malware clustering using machine learning techniques,* Master's Project, **2024**.
+8.	Jemin Miyani, *Stock price prediction using machine and deep learning techniques,* Master's Project, **2024**.
+9.	Anne Ryan, *Digital image forensics using deep learning,* Master's Project, **2023**.
+10.	Thomas Quinn, *An assessment of the U.S. preparedness for foreign cybersecurity threats,* Master's Thesis, **2023**.
+11.	Dennis George, *Transport layer security: History, benefits, and adoption rate,* Master's Project, **2023**.
+12.	George Medairy, *Denial-of-service attack detection using machine learning techniques,* Master's Project, **2023**.
+13.	Maulik Patel, *SSL certificate security and HTT/3 adoption rate,* Master's Project, **2023**.
+14.	Samiya Abid, *Why is the world afraid of AI?* Master's Project, **2023**.
+15.	Ashle Samczynski, *Malware analysis and classification using machine learning,* Master's Project, **2022**.
+16.	Anjum Zarfishan, *Online procurement and bidding system,* Master's Project, **2022**.
+17.	Saif Alsukhni, *Automotive digital forensics: Methodology and analysis,* Master's Project, **2022**.
+18.	Shubha Manapati, *Fuzzy hashing and applications to cybersecurity and digital forensics,* Master's Project, **2022**.
+19.	Latha Saradha, *Housing price prediction in New York City using machine learning,* Master's Project, **2019**.
+20.	Tasnim Holoubi, *Constellation design and parallel implementation of the improved quadrature spatial modulation MIMO system,* Master's Thesis, Korea Tech, **2018-2020**.
+21.	Nishal Muchena, *Single-RF to two-RF chains MIMO spatial modulation: systems, analysis and performance evaluation,* Master's Thesis, Korea Tech, **2018-2020**.
+22.	Sherif Murtala, Co-advised with Dr. Kang-Sun Choi, Ph.D., Korea Tech, **2018-2021**.
+23.	Ismail Holoubi, *Social network analysis of refugees' displacement,* Master's Thesis, Korea Tech, **2017-2019**.
+24.	Saetbyeul Lee, *Improved spatial modulation techniques for MIMO systems,* Master's Thesis, Korea Tech, **2015-2017**.
 
 **Undergraduate Students** 
 -------
