@@ -186,3 +186,108 @@ Lectures
     </tr>
   </tbody>
 </table>
+
+In-class Labs
+======
+
+
+<table class="syllabus-table" aria-label="Course labs by module">
+  <thead>
+    <tr>
+      <th>Module</th>
+      <th>Labs</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="syllabus-module">1</td>
+      <td>
+        <ul class="labs-list">
+          <li>Lab 1: Data integration and analysis</li>
+          <li>Lab 2: Extract, Transform, and Load (ETL)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="syllabus-module">2</td>
+      <td>
+        <ul class="labs-list">
+          <li>Lab 3: Python for data scientists</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="syllabus-module">3</td>
+      <td>
+        <ul class="labs-list">
+          <li>Lab 4: Introduction to statistics</li>
+          <li>Lab 5: Web scraping using Pandas</li>
+          <li>Lab 6: Web scraping using Beautiful Soup</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="syllabus-module">4</td>
+      <td>
+        <ul class="labs-list">
+          <li>Lab 7: Detailed implementation of a single-feature linear regression</li>
+          <li>Lab 8: Polynomial regression</li>
+          <li>Lab 9: Introduction to Python classes</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="syllabus-module">5</td>
+      <td>
+        <ul class="labs-list">
+          <li>Lab 10: Perceptron, Adaboost, Logistic Regression</li>
+          <li>Lab 11: Boosting algorithms (XGBoost, LightGBM, and CatBoost)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="syllabus-module">6</td>
+      <td>
+        <ul class="labs-list">
+          <li>Lab 12: Hyperparameter tuning</li>
+          <li>Lab 13: Time series prediction (stock market forecasting)</li>
+          <li>Lab 14: Feature selection</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="syllabus-module">7</td>
+      <td>
+        <ul class="labs-list">
+          <li>Lab 15: Clustering and principal component analysis</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="syllabus-module">8</td>
+      <td>
+        <ul class="labs-list">
+          <li>Lab 16: Tensors using PyTorch</li>
+          <li>Lab 17: Shallow neural networks</li>
+          <li>Lab 18: Feedforward neural networks</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="syllabus-module">9</td>
+      <td>
+        <ul class="labs-list">
+          <li>Lab 19: Basic convolutional neural network</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td class="syllabus-module">10</td>
+      <td>
+        <ul class="labs-list">
+          <li>Lab 20: Pretrained models and transfer learning</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
