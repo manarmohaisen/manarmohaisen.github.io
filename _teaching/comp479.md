@@ -40,8 +40,8 @@ Lectures
       <td style="padding: 10px;">Crash Course in Programming for Machine Learning (Python)</td>
       <td style="padding: 10px;">
 <ul>
-  <li><strong>Getting Started with Python</strong> – Setting up Python, running scripts, and basic syntax.</li>
-  <li><strong>Supported Programming Paradigms</strong> – Procedural, object-oriented, and functional programming.</li>
+  <li><strong>Getting Started with Python</strong>: Setting up Python, running scripts, and basic syntax.</li>
+  <li><strong>Supported Programming Paradigms</strong>: Procedural, object-oriented, and functional programming.</li>
   <li><strong>Built-in Types</strong>: Integer (<code>int</code>), Boolean (<code>bool</code>), and Floating point (<code>float</code>).</li>
   <li><strong>Looping and Branching</strong>: <code>for</code> loops, <code>while</code> loops, <code>if</code>/<code>elif</code>/<code>else</code> statements.</li>
   <li><strong>Built-in Collections</strong>: <code>list</code>, <code>tuple</code>, <code>set</code>, <code>dict</code>, <code>bytes</code>, and <code>bytearray</code>.</li>
@@ -70,66 +70,117 @@ Lectures
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
-      <td style="padding: 10px;">Network Security and Threats
+      <td style="padding: 10px;">Supervised Learning (Regression)
 </td>
       <td style="padding: 10px;">
-        <ul>
-  <li><strong>Layer 2 Attacks:</strong> MAC spoofing, MAC flooding, and ARP spoofing.</li>
-  <li><strong>Layer 3 and 4 Attacks:</strong> Packet sniffing and IP spoofing at the network layer, and TCP sequence prediction, blind injection, and session hijacking at the transport layer.</li>
-  <li><strong>Layer 7 Attacks:</strong> DNS pharming, phishing, and DNS cache poisoning.</li>
-  <li><strong>Denial-of-Service (DoS) Attacks:</strong> Ping floods, smurf and fraggle attacks, SYN flood, fork bombs, and distributed and pulsing DoS attacks.</li>
+<ul>
+  <li><strong>Regression Techniques</strong>: Linear and polynomial regression for predictive modeling.</li>
+  <li><strong>Overfitting and Underfitting</strong>: Concepts, detection, and mitigation strategies.</li>
+  <li><strong>Regularization Methods</strong>: Ridge, Lasso, and Elastic Net.</li>
+  <li><strong>Gradient Descent Variants</strong>: Batch, mini-batch, and stochastic approaches for optimization.</li>
 </ul>
       </td>
     </tr>
   <tr style="background-color: #f9f9f9;">
-      <td style="padding: 10px;">Network Perimeter Security</td>
+      <td style="padding: 10px;">Supervised Learning (Classification)</td>
       <td style="padding: 10px;">
-        <ul>
-  <li><strong>Network Protection Tools:</strong> Stateful, stateless, and next-generation firewall (NGFW).</li>
-  <li><strong>Proxy Services:</strong> Proxy servers, anonymizing proxies, and proxy firewalls.</li>
-  <li><strong>Secure Network Zones:</strong> Use of demilitarized zones (DMZs) for isolating external-facing services from internal networks.</li>
-  <li><strong>Threat Detection and Prevention:</strong> Introduction to VPNs for secure communication, and IDS/IPS for identifying and preventing intrusions.</li>
+<ul>
+  <li><strong>Classification Models</strong>: Perceptron, Adaline, Logistic Regression, Naïve Bayes.</li>
+  <li><strong>Support Vector Machines (SVM)</strong>: Hard-margin, soft-margin, and kernel-based approaches.</li>
+  <li><strong>Tree-based Methods</strong>: Decision Trees, Random Forests.</li>
+  <li><strong>Instance-based Learning</strong>: K-nearest Neighbors (KNN).</li>
+  <li><strong>Ensemble Learning</strong>: Bagging, Boosting, AdaBoost, hard vs. soft majority voting.</li>
+  <li><strong>Multiclass Classification</strong>: Strategies for extending binary classifiers.</li>
+  <li><strong>Evaluation Metrics</strong>: Confusion matrix, precision, recall, F1-score, cost-sensitive metrics, ROC AUC.</li>
 </ul>
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
-      <td style="padding: 10px;">System Security</td>
+      <td style="padding: 10px;">Feature Engineering and Performance Assessment</td>
       <td style="padding: 10px;">
      <ul>
-  <li><strong>Software Exploits:</strong> Buffer overflows, zero-day attacks, and rootkits.</li>
-  <li><strong>Malicious Code:</strong> Computer viruses (program, macro, boot sector, encrypted, polymorphic, metamorphic), worms, and Trojan horses.</li>
-  <li><strong>Internal Threats:</strong> Insider attacks, including logic bombs and backdoors, and defenses.</li>
-  <li><strong>Stealth and Privacy Threats:</strong> Botnets for large-scale attacks and privacy-invasive software, including adware and spyware.</li>
+  <li><strong>Anatomy of a Learning Algorithm</strong> – Key components and workflow.</li>
+  <li><strong>Data Splits</strong> – Training, validation, and test sets.</li>
+  <li><strong>Model Performance Concepts</strong> – Approximation, generalization, and the bias-variance tradeoff.</li>
+  <li><strong>Data Preprocessing</strong> – Handling missing data, scaling, discretization, and encoding categorical features.</li>
+  <li><strong>Data Leakage</strong> – Understanding and preventing information leakage between datasets.</li>
+  <li><strong>Feature Importance & Selection</strong> – Techniques including:
+    <ul>
+      <li>Dropping columns with many missing values</li>
+      <li>Dropping features with low variance</li>
+      <li>Backward and forward feature selection</li>
+      <li>Recursive feature elimination</li>
+      <li>Filter-based methods (Pearson’s r, Chi-squared, Spearman’s Rho, mutual information, ANOVA F-score)</li>
+      <li>Embedded methods (LASSO, positive LASSO regression, XGBoost)</li>
+    </ul>
+  </li>
 </ul>
       </td>
     </tr>
       <tr style="background-color: #f9f9f9;">
-      <td style="padding: 10px;">Introduction to Cryptography</td>
+      <td style="padding: 10px;">Unsupervised Learning</td>
       <td style="padding: 10px;">
         <ul>
-  <li><strong>Cryptographic Foundations:</strong> Introduction to classical encryption methods and diffusion and confusion (Claude Shannon).</li>
-  <li><strong>Symmetric Cryptosystems:</strong> Ideal block cipher, Feistel network, DES, 3DES, and AES.</li>
-  <li><strong>Public-Key Cryptography:</strong> Overview of RSA algorithm and Diffie-Hellman key exchange for secure communication.</li>
-  <li><strong>Hash Functions:</strong> Security properties, common applications, and examples, inclduing the Secure Hash Algorithm (SHA).</li>
+  <li><strong>Unsupervised Learning Use Cases</strong>: Applications in pattern discovery, anomaly detection, and data exploration.</li>
+  <li><strong>Clustering Methods</strong> – 
+    <ul>
+      <li>Prototype-based: K-means</li>
+      <li>Hierarchical: Agglomerative and divisive clustering</li>
+      <li>Density-based: DBSCAN, HDBSCAN</li>
+    </ul>
+  </li>
+  <li><strong>Dimensionality Reduction</strong>:
+    <ul>
+      <li>Principal Component Analysis (PCA)</li>
+      <li>Kernel PCA (KPCA)</li>
+      <li>Overview of the Linear Discriminant Analysis (LDA)</li>
+    </ul>
+  </li>
+  <li><strong>Market Basket Analysis & Association Rules</strong>: Discovering relationships between items in transactional datasets.</li>
 </ul>
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
-      <td style="padding: 10px;">Internet Security</td>
+      <td style="padding: 10px;">Introduction to Shallow and Deep Neural Networks</td>
       <td style="padding: 10px;">
-    <ul>
-  <li><strong>Web Technologies:</strong> Fundamentals of the World Wide Web, including HTTP/HTTPS protocols, HTML structure, dynamic content generation, session management, and cookies.</li>
-  <li><strong>Client-Side Attacks:</strong> Session hijacking, phishing, privacy violations, and cross-site scripting (XSS), along with associated defenses.</li>
-  <li><strong>Server-Side Attacks:</strong> SQL Injection (SQLi), Local File Inclusion (LFI), Remote File Inclusion (RFI), with corresponding mitigation strategies.</li>
+<ul>
+  <li><strong>Shallow Neural Networks</strong>: Basic architecture with input, hidden, and output layers.</li>
+  <li><strong>Deep Neural Networks (DNNs)</strong>: Multi-layer architectures.</li>
+  <li><strong>Key Concepts</strong>: Neurons, weights, biases, activation functions.</li>
+  <li><strong>Forward Propagation</strong>: Flow of data through the network for predictions.</li>
+  <li><strong>Backpropagation</strong>: Gradient-based optimization for training neural networks.</li>
+  <li><strong>Common Activation Functions</strong>: Sigmoid, tanh, ReLU, and softmax.</li>
+  <li><strong>Use Cases</strong>: Regression, image recognition, natural language processing, with focus on classification.</li>
 </ul>
       </td>
     </tr>
      <tr style="background-color: #f9f9f9;">
-      <td style="padding: 10px;">Application Security</td>
+      <td style="padding: 10px;">Introduction to Convolutional Neural Networks</td>
       <td style="padding: 10px;">
         <ul>
-  <li><strong>Database Security:</strong> Relational databases, SQL access controls (grant and revoke), two-phase commit protocol, and defenses against inference attacks.</li>
-  <li><strong>Email Security:</strong> SMTP and email encryption and authentication methods.</li>
+  <li><strong>Overview of CNNs</strong>: Processing grid-like data, including images.</li>
+  <li><strong>Convolutional Layers</strong>: Filters/kernels feature extraction.</li>
+  <li><strong>Pooling Layers</strong>: Max pooling and average pooling downsampling.</li>
+  <li><strong>Fully Connected Layers</strong>: Combining extracted features for classification or regression tasks.</li>
+  <li><strong>Activation Functions</strong></li>
+  <li><strong>Use cases</strong>: Image recognition, object detection, medical imaging, and malware analysis.</li>
+</ul>
+      </td>
+    </tr>
+    <tr style="background-color: #ffffff;">
+      <td style="padding: 10px;">Introduction Transfer Learning</td>
+      <td style="padding: 10px;">
+<ul>
+  <li><strong>Overview of Transfer Learning</strong>: Leveraging pre-trained models to solve related tasks.</li>
+  <li><strong>Benefits of Transfer Learning</strong>: Reduced training time, improved performance with limited data, and lower computational cost.</li>
+  <li><strong>Common Approaches</strong>: 
+    <ul>
+      <li>Feature extraction using pre-trained models</li>
+      <li>Fine-tuning model's partial subset of the weights for the target task</li>
+    </ul>
+  </li>
+  <li><strong>Popular Pre-trained Models</strong>: Examples include VGG, ResNet, EfficientNet, BERT, and GPT.</li>
+  <li><strong>Applications</strong>: Computer vision, natural language processing, and medical diagnostics.</li>
 </ul>
       </td>
     </tr>
