@@ -37,14 +37,19 @@ Lectures
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
-      <td style="padding: 10px;">Computers, Networks, and Internet Fundamentals
-</td>
+      <td style="padding: 10px;">Crash Course in Programming for Machine Learning (Python)</td>
       <td style="padding: 10px;">
-        <ul>
-  <li><strong>Computer Architecture:</strong> Introduction to memory and storage devices, CPU, communication devices, operating systems, and the kernel.</li>
-  <li><strong>TCP/IP Networking:</strong> TCP/IP model and common networking protocols.</li>
-  <li><strong>Network Infrastructure:</strong> Essential design elements, such as hubs, repeaters, bridges, switches, routers, and firewalls.</li>
-  <li><strong>Protocols and Addressing:</strong> Ethernet, IPv4/IPv6 addressing, and MAC addresses.</li>
+<ul>
+  <li><strong>Getting Started with Python</strong> – Setting up Python, running scripts, and basic syntax.</li>
+  <li><strong>Supported Programming Paradigms</strong> – Procedural, object-oriented, and functional programming.</li>
+  <li><strong>Built-in Types</strong>: Integer (<code>int</code>), Boolean (<code>bool</code>), and Floating point (<code>float</code>).</li>
+  <li><strong>Looping and Branching</strong>: <code>for</code> loops, <code>while</code> loops, <code>if</code>/<code>elif</code>/<code>else</code> statements.</li>
+  <li><strong>Built-in Collections</strong>: <code>list</code>, <code>tuple</code>, <code>set</code>, <code>dict</code>, <code>bytes</code>, and <code>bytearray</code>.</li>
+  <li><strong>Functions</strong>: Defining, calling, arguments, return values, and scope.</li>
+  <li><strong>Concrete Classes</strong>: Class definitions, instantiation, attributes, and methods.</li>
+  <li><strong>File I/O</strong>:Reading from and writing to files.</li>
+  <li><strong>Necessary Packages</strong>: Overview of NumPy, Pandas, SciPy, and Matplotlib.</li>
+  <li><strong>Other Selected Topics</strong>: Additional Python features and concepts for advanced use.</li>
 </ul>
       </td>
     </tr>
