@@ -76,6 +76,12 @@ Lectures  and In-class Labs
   <li><strong>Similarity Measures</strong>: Techniques such as cosine similarity, Euclidean distance, and correlation.</li>
   <li><strong>Derivative, Gradient, and the Chain Rule</strong>: Core calculus concepts for optimization in ML models.</li>
 </ul>
+        <strong>In-class Labs</strong>:
+        <ul class="labs-list">
+          <li>Lab 4: Introduction to statistics</li>
+          <li>Lab 5: Web scraping using Pandas</li>
+          <li>Lab 6: Web scraping using Beautiful Soup</li>
+        </ul>
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -88,6 +94,12 @@ Lectures  and In-class Labs
   <li><strong>Regularization Methods</strong>: Ridge, Lasso, and Elastic Net.</li>
   <li><strong>Gradient Descent Variants</strong>: Batch, mini-batch, and stochastic approaches for optimization.</li>
 </ul>
+       <strong>In-class Labs</strong>:
+        <ul class="labs-list">
+          <li>Lab 7: Detailed implementation of a single-feature linear regression</li>
+          <li>Lab 8: Polynomial regression</li>
+          <li>Lab 9: Introduction to Python classes</li>
+        </ul>
       </td>
     </tr>
   <tr style="background-color: #f9f9f9;">
@@ -102,6 +114,11 @@ Lectures  and In-class Labs
   <li><strong>Multiclass Classification</strong>: Strategies for extending binary classifiers.</li>
   <li><strong>Evaluation Metrics</strong>: Confusion matrix, precision, recall, F1-score, cost-sensitive metrics, ROC AUC.</li>
 </ul>
+        <strong>In-class Labs</strong>:
+        <ul class="labs-list">
+          <li>Lab 10: Perceptron, Adaboost, Logistic Regression</li>
+          <li>Lab 11: Boosting algorithms (XGBoost, LightGBM, and CatBoost)</li>
+        </ul>
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -124,6 +141,12 @@ Lectures  and In-class Labs
     </ul>
   </li>
 </ul>
+       <strong>In-class Labs</strong>:
+        <ul class="labs-list">
+          <li>Lab 12: Hyperparameter tuning</li>
+          <li>Lab 13: Time series prediction (stock market forecasting)</li>
+          <li>Lab 14: Feature selection</li>
+        </ul>
       </td>
     </tr>
       <tr style="background-color: #f9f9f9;">
@@ -147,6 +170,10 @@ Lectures  and In-class Labs
   </li>
   <li><strong>Market Basket Analysis & Association Rules</strong>: Discovering relationships between items in transactional datasets.</li>
 </ul>
+       <strong>In-class Labs</strong>:
+        <ul class="labs-list">
+          <li>Lab 15: Clustering and principal component analysis</li>
+        </ul>
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -161,6 +188,12 @@ Lectures  and In-class Labs
   <li><strong>Common Activation Functions</strong>: Sigmoid, tanh, ReLU, and softmax.</li>
   <li><strong>Use Cases</strong>: Regression, image recognition, natural language processing, with focus on classification.</li>
 </ul>
+      <strong>In-class Labs</strong>:
+        <ul class="labs-list">
+          <li>Lab 16: Tensors using PyTorch</li>
+          <li>Lab 17: Shallow neural networks</li>
+          <li>Lab 18: Feedforward neural networks</li>
+        </ul>
       </td>
     </tr>
      <tr style="background-color: #f9f9f9;">
@@ -174,6 +207,10 @@ Lectures  and In-class Labs
   <li><strong>Activation Functions</strong></li>
   <li><strong>Use cases</strong>: Image recognition, object detection, medical imaging, and malware analysis.</li>
 </ul>
+        <strong>In-class Labs</strong>:
+        <ul class="labs-list">
+          <li>Lab 19: Basic convolutional neural network</li>
+        </ul>
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -191,110 +228,13 @@ Lectures  and In-class Labs
   <li><strong>Popular Pre-trained Models</strong>: Examples include VGG, ResNet, EfficientNet, BERT, and GPT.</li>
   <li><strong>Applications</strong>: Computer vision, natural language processing, and medical diagnostics.</li>
 </ul>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-In-class Labs
-======
-
-<table style="width:100%; border-collapse: collapse; font-size: 90%; margin: 0.5em 0;">
-  <thead>
-    <tr style="background-color: #0077cc; color: white;">
-      <th style="padding: 10px; text-align: left;">Module</th>
-      <th style="padding: 10px; text-align: left;">Labs</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td class="syllabus-module">1</td>
-      <td>
-        <ul class="labs-list">
-
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="syllabus-module">2</td>
-      <td>
-        <ul class="labs-list">
-          <li>Lab 3: Python for data scientists</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="syllabus-module">3</td>
-      <td>
-        <ul class="labs-list">
-          <li>Lab 4: Introduction to statistics</li>
-          <li>Lab 5: Web scraping using Pandas</li>
-          <li>Lab 6: Web scraping using Beautiful Soup</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="syllabus-module">4</td>
-      <td>
-        <ul class="labs-list">
-          <li>Lab 7: Detailed implementation of a single-feature linear regression</li>
-          <li>Lab 8: Polynomial regression</li>
-          <li>Lab 9: Introduction to Python classes</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="syllabus-module">5</td>
-      <td>
-        <ul class="labs-list">
-          <li>Lab 10: Perceptron, Adaboost, Logistic Regression</li>
-          <li>Lab 11: Boosting algorithms (XGBoost, LightGBM, and CatBoost)</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="syllabus-module">6</td>
-      <td>
-        <ul class="labs-list">
-          <li>Lab 12: Hyperparameter tuning</li>
-          <li>Lab 13: Time series prediction (stock market forecasting)</li>
-          <li>Lab 14: Feature selection</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="syllabus-module">7</td>
-      <td>
-        <ul class="labs-list">
-          <li>Lab 15: Clustering and principal component analysis</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="syllabus-module">8</td>
-      <td>
-        <ul class="labs-list">
-          <li>Lab 16: Tensors using PyTorch</li>
-          <li>Lab 17: Shallow neural networks</li>
-          <li>Lab 18: Feedforward neural networks</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="syllabus-module">9</td>
-      <td>
-        <ul class="labs-list">
-          <li>Lab 19: Basic convolutional neural network</li>
-        </ul>
-      </td>
-    </tr>
-    <tr>
-      <td class="syllabus-module">10</td>
-      <td>
+       <strong>In-class Labs</strong>:
         <ul class="labs-list">
           <li>Lab 20: Pretrained models and transfer learning</li>
         </ul>
       </td>
     </tr>
+  </tbody>
+</table>
   </tbody>
 </table>
