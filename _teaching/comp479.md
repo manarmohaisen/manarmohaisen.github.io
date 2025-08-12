@@ -236,5 +236,3 @@ Lectures  and In-class Labs
     </tr>
   </tbody>
 </table>
-  </tbody>
-</table>
