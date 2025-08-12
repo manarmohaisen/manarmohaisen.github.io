@@ -190,12 +190,11 @@ Lectures
 In-class Labs
 ======
 
-
-<table class="syllabus-table" aria-label="Course labs by module">
+<table style="width:100%; border-collapse: collapse; font-size: 90%; margin: 1em 0;">
   <thead>
-    <tr>
-      <th>Module</th>
-      <th>Labs</th>
+    <tr style="background-color: #0077cc; color: white;">
+      <th style="padding: 12px; text-align: left;">Module</th>
+      <th style="padding: 12px; text-align: left;">Labs</th>
     </tr>
   </thead>
   <tbody>
