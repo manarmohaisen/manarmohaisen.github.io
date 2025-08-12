@@ -10,7 +10,7 @@ location: "Chicago, Illinois, United States"
 
 Topics include a wide variety of supervised learning methods, both regression and classification, with an emphasis on those that perform well on large feature sets.
 
-Lectures
+Lectures  and In-class Labs
 ======
 <table style="width:100%; border-collapse: collapse; font-size: 90%; margin: 1em 0;">
   <thead>
@@ -34,6 +34,11 @@ Lectures
   <li><strong>ETL vs. ELT</strong>: Extract-Transform-Load versus Extract-Load-Transform.</li>
   <li><strong>Data-related Roles</strong>: Overview of roles (Data Analyst, Data Engineer, Data Scientist, and ML Engineer).</li>
 </ul>
+        <strong>In-class Labs</strong>:
+        <ul>
+        <li>Lab 1: Data integration and analysis</li>
+        <li>Lab 2: Extract, Transform, and Load (ETL)</li>
+        </ul>
       </td>
     </tr>
     <tr style="background-color: #ffffff;">
@@ -51,6 +56,10 @@ Lectures
   <li><strong>Necessary Packages</strong>: Overview of NumPy, Pandas, SciPy, and Matplotlib.</li>
   <li><strong>Other Selected Topics</strong>: Additional Python features and concepts for advanced use.</li>
 </ul>
+        <strong>In-class Labs</strong>:
+        <ul>
+          <li>Lab 3: Python for data scientists</li>
+        </ul>
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
@@ -202,8 +211,7 @@ In-class Labs
       <td class="syllabus-module">1</td>
       <td>
         <ul class="labs-list">
-          <li>Lab 1: Data integration and analysis</li>
-          <li>Lab 2: Extract, Transform, and Load (ETL)</li>
+
         </ul>
       </td>
     </tr>
