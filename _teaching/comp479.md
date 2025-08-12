@@ -54,20 +54,18 @@ Lectures
       </td>
     </tr>
     <tr style="background-color: #f9f9f9;">
-      <td style="padding: 10px;">Crash Course in Programming for Machine Learning (Python)
-</td>
+      <td style="padding: 10px;">Review of Probability, Calculus, and Linear Algebra</td>
       <td style="padding: 10px;">
 <ul>
-  <li><strong>Getting Started with Python</strong> – Setting up Python, running scripts, and basic syntax.</li>
-  <li><strong>Supported Programming Paradigms</strong> – Procedural, object-oriented, and functional programming.</li>
-  <li><strong>Built-in Types</strong>: Integer (<code>int</code>), Boolean (<code>bool</code>), and Floating point (<code>float</code>).</li>
-  <li><strong>Looping and Branching</strong>: <code>for</code> loops, <code>while</code> loops, <code>if</code>/<code>elif</code>/<code>else</code> statements.</li>
-  <li><strong>Built-in Collections</strong>: <code>list</code>, <code>tuple</code>, <code>set</code>, <code>dict</code>, <code>bytes</code>, and <code>bytearray</code>.</li>
-  <li><strong>Functions</strong>: Defining, calling, arguments, return values, and scope.</li>
-  <li><strong>Concrete Classes</strong>: Class definitions, instantiation, attributes, and methods.</li>
-  <li><strong>File I/O</strong>:Reading from and writing to files.</li>
-  <li><strong>Necessary Packages</strong>: Overview of NumPy, Pandas, SciPy, and Matplotlib.</li>
-  <li><strong>Other Selected Topics</strong>: Additional Python features and concepts for advanced use.</li>
+  <li><strong>Randomness in Machine Learning</strong>: Role of randomness in algorithms, initialization, and sampling.</li>
+  <li><strong>Probability and Random Variables</strong>: Fundamentals of probability theory and types of random variables.</li>
+  <li><strong>Entropy</strong>: Measure of uncertainty and its role in information theory and machine learning.</li>
+  <li><strong>Basic Operations on Matrices and Vectors</strong>: Addition, multiplication, transposition, and inversion.</li>
+  <li><strong>Capital Sigma (Σ) and Pi (Π) Notations</strong>: Summation and product notation for mathematical expressions.</li>
+  <li><strong>Local and Global Maxima and Minima</strong>: Concepts in optimization and their importance in ML algorithms.</li>
+  <li><strong>Min/Max and Arg Min/Max</strong>: Finding extreme values and their corresponding indices or arguments.</li>
+  <li><strong>Similarity Measures</strong>: Techniques such as cosine similarity, Euclidean distance, and correlation.</li>
+  <li><strong>Derivative, Gradient, and the Chain Rule</strong>: Core calculus concepts for optimization in ML models.</li>
 </ul>
       </td>
     </tr>
