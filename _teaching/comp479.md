@@ -190,7 +190,7 @@ Lectures
 In-class Labs
 ======
 
-<table style="width:100%; border-collapse: collapse; font-size: 90%; margin: 1em 0;">
+<table style="width:100%; border-collapse: collapse; font-size: 90%; margin: 0.5em 0;">
   <thead>
     <tr style="background-color: #0077cc; color: white;">
       <th style="padding: 10px; text-align: left;">Module</th>
