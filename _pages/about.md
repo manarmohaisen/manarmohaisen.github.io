@@ -22,7 +22,7 @@ Recent Publications
 <ol>
   <li>
     <em>A Comprehensive Analysis of Evolving Permission Usage in Android Apps: Trends, Threats, and Ecosystem Insights</em><br>
-    M. Alkinoon <em>et al.</em><br>
+    A. Alkinoon <em>et al.</em><br>
     <strong>Journal of Cybersecurity and Privacy</strong>, 2025, [<a href="https://www.mdpi.com/2624-800X/5/3/58" target="_blank">Link</a>]
   </li>
   <li>
