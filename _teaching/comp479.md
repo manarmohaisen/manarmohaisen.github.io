@@ -1,8 +1,9 @@
 ---
 title: "COMP 479: Machine Learning"
 collection: teaching
-type: "Graduate course"
+type: "Undergraduate/Graduate course"
 permalink: /teaching/comp479
+venue: "Northeastern Illinois University"
 venue: "Loyola University Chicago"
 date: 2025-01-01
 location: "Chicago, Illinois, United States"
